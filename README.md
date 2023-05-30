@@ -10,7 +10,7 @@ Matlab R2020a (MathWorks Inc., Natick, MA)
 EEGLAB 2019_0 (https://sccn.ucsd.edu/eeglab/downloadtoolbox.php/)
 EEGLAB winPACT toolbox (https://sccn.ucsd.edu/wiki/WinPACT/)
 RIPPLELAB (https://github.com/BSP-Uniandes/RIPPLELAB/)
-FreeSurfer (http://surfer.nmr.mgh.harvard.edu)
+FreeSurfer 6.0.0 (http://surfer.nmr.mgh.harvard.edu)
 DSI studio 64 (http://dsi-studio.labsolver.org/)
 
 This package has been tested on the following systems:
